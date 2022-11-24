@@ -8,7 +8,6 @@ It is a command-line application from scratch to manage a company's employee dat
 
 - [Installation](#installation)
 - [Video](#Video)
-- [Instructions](#instructions)
 - [License](#license)
 - [Questions](#questions)
 
@@ -16,7 +15,7 @@ It is a command-line application from scratch to manage a company's employee dat
 ## Video
 [Video](https://app.castify.com/view/4e20f9f0-2b12-4d9e-97cc-28fd780db009)
 
-## Installation and Instructions
+## Installation
 
 1. Clone this project on to your local machine.
 2. Type ''mysql -u root -p'' in your terminal
